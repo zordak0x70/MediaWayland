@@ -6,11 +6,6 @@
 This is PURELY for educational purposes, and its development will be closely 
 followed on the main maintainer's Twitch channel, which is [Twitch](https://www.twitch.tv/zordak112).
 
-
-## Quick Start
-
-You can find the binaries for your operative system in the release section
-
 ## Installing from Source
 
 To build and install this project from source, you'll need the following dependencies:
